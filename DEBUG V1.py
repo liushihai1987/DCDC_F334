@@ -4,7 +4,6 @@ from ftplib import FTP
 import os,sys
 import configparser
 #打开FTP，用于检测是否存在规格书等文件
-#DFAD
 
 config = configparser.ConfigParser()
 config.read('cfg.ini')
