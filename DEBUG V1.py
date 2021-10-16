@@ -20,3 +20,5 @@ ftp.login(FTP_User,FTP_PSW) #"Adminitrator","\'"
 #ftp.cwd( '/datasheets' )
 dataname=ftp.nlst()
 ftp.quit()
+ftp.quit()
+ftp.quit()
